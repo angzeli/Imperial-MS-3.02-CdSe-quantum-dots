@@ -1,4 +1,4 @@
-This repository contains all experimental documents, analysis code, figures, and literature for the synthesis and optical characterisation of CdSe quantum dots (QDs). It includes the full laboratory script, references used in the analysis, Python scripts for data processing, and the viva presentation slides.
+This repository contains all experimental documents, analysis code and figures for the synthesis and optical characterisation of CdSe quantum dots (QDs). It includes the full laboratory script, references used in the analysis, Python scripts for data processing, and the viva presentation slides.
 
 This project investigates:
 	•	CdSe quantum dot synthesis via the hot-injection method

@@ -69,3 +69,13 @@ The analysis pipeline includes:
 - Standard scientific Python stack:
 	- numpy
 	- matplotlib
+
+## 👥 Authorship
+
+This project was conducted as part of the MS 3.02 laboratory course by:
+
+- **Angze Li** (Imperial College London)  
+- **Alana Concannon** (Imperial College London)  
+
+Experimental measurements and initial data handling were performed collaboratively during scheduled laboratory sessions.  
+Subsequent data analysis, visualisation, and automation scripts were primarily developed by **Angze Li**, with contributions and discussion from **Alana Concannon**.

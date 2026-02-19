@@ -46,8 +46,9 @@ The analysis pipeline includes:
 ```python
 ├── Data/                      # Raw and processed experimental datasets
 ├── Figures/                   # Generated plots and analysis figures
-├── Python Analysis.ipynb      # Fully commented Jupyter notebook (main analysis)
+├── LICENSE
 ├── MS.02 Quantum Dots Viva Slides.pdf
+├── Python Analysis.ipynb      # Fully commented Jupyter notebook (main analysis)
 ├── README.md
 ```
 
